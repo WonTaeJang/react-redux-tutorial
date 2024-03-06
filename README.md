@@ -1,2 +1,4 @@
-# react-redux-tutorial
-react redux 연습
+# React Redux Tutorial
+
+react
+redux
